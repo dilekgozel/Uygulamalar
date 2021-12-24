@@ -1,0 +1,2 @@
+# Uygulamalar
+Kurs Uygulamaları
